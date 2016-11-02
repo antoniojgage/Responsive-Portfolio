@@ -342,15 +342,15 @@ input[type=submit] {
         font-weight: 700;
         font-size: 30px;
         text-decoration: none;
-        margin:0%;
+        margin: 0%;
     }
 }
 
 nav {
     float: none;
-    margin:0%;
-    text-align:center;
-    font-size:150%;
+    margin: 0%;
+    text-align: center;
+    font-size: 150%;
 }
 
 a {
